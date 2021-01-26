@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Yangfan Zhang, a developer, and an animator.
+
 <!--
 **YangfanZhang/yangfanzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
